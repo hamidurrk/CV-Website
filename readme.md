@@ -39,3 +39,5 @@ Membership (if any)
 Your CV will be marked based on information completeness and appearance. So, try to make it as much attractive as you can.
 
 Please submit your CV using Google Classroom.
+
+#B0E4CE
