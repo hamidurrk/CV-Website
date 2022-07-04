@@ -21,10 +21,6 @@ h1 {
 	color: rgba(0, 0, 0, .75);
 }
 
-.container {
-	height: 100%;
-}
-
 .left {
 	background-color: #B0E4CE;
 	border-right: 1px solid rgba(0, 0, 0, .05);
@@ -58,7 +54,7 @@ h1 {
 	background-position: center;
 	height: 150px;
 	width: 150px;
-	background-size: 125%;
+	background-size: 175%;
 	margin: 0 auto;
 }
 
@@ -200,7 +196,8 @@ a {
 
 .resume .wrap .work {
 	width: 50%;
-	padding: 15px;
+	padding-top: 20px;
+	padding-bottom: 30px;
 }
 
 table {
