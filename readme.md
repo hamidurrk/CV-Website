@@ -34,9 +34,7 @@ Membership (if any)
 Awards (if any)
 
 Hobbies
-
 References
-
 Contact Form
 
 
